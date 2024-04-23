@@ -1,0 +1,11 @@
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\bin\Debug\net8.0\guessTheNumberC#.deps.json
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\bin\Debug\net8.0\guessTheNumberC#.dll
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\bin\Debug\net8.0\guessTheNumberC#.pdb
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\guessTheNumberC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\guessTheNumberC#.AssemblyInfoInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\guessTheNumberC#.AssemblyInfo.cs
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\guessTheNumberC#.csproj.CoreCompileInputs.cache
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\guessTheNumberC#.dll
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\refint\guessTheNumberC#.dll
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\guessTheNumberC#.pdb
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\ref\guessTheNumberC#.dll
