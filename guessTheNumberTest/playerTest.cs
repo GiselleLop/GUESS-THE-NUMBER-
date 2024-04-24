@@ -17,12 +17,11 @@ namespace GameLibraryTest
             Assert.AreEqual(playerName, _humanPlayer.Name);
         }
 
-         [TestMethod]
+        [TestMethod]
         public void MakeGuess_ValidInput()
         {
             string playerName = "John";
             int expectedGuess = 42; // Adivinanza esperada
-
             // Simula entrada de usuario utilizando un TextReader mock
             using (var stringReader = new StringReader(expectedGuess.ToString()))
             {
@@ -33,6 +32,14 @@ namespace GameLibraryTest
                 Assert.AreEqual(expectedGuess, player.LastAttempt);
             }
         }
-    
+
+        [TestMethod]
+        public void MakeGuess_AIplayer()
+        {
+          AIPlayer player = new AIPlayer("computer");
+          player.MakeGuess();
+          Assert.AreEqual(player.LastAttempt.GetType(), typeof(int));
+        }
+
     }
 }

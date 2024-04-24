@@ -9,3 +9,4 @@ C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\
 C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\refint\guessTheNumberC#.dll
 C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\guessTheNumberC#.pdb
 C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\ref\guessTheNumberC#.dll
+c:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\guessTheNumberC#\obj\Debug\net8.0\guessTheNumberC#.sourcelink.json
