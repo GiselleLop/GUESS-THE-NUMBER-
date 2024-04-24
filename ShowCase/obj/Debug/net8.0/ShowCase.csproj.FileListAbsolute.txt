@@ -16,3 +16,4 @@ C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\ShowCase\obj\Debu
 C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\ShowCase\obj\Debug\net8.0\ShowCase.pdb
 C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\ShowCase\obj\Debug\net8.0\ShowCase.genruntimeconfig.cache
 C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\ShowCase\obj\Debug\net8.0\ref\ShowCase.dll
+C:\Users\gisel\OneDrive\Escritorio\guess-the-number-proyect-c#\ShowCase\obj\Debug\net8.0\ShowCase.sourcelink.json
